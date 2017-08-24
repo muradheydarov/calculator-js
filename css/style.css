@@ -1,0 +1,43 @@
+#main{
+  width: 50%;
+}
+.cal{
+  margin-top: 15px !important;
+  width: 40%;
+  background: #4E4E4E;
+  text-align: center;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+.text_line{
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  text-align: right;
+  font-family: 'Orbitron', sans-serif;
+  background: #CDDDCD;
+  color: #4E4E4E;
+  margin-top: 15px !important;
+  padding: 10px 26px !important;
+  width: 180px !important;
+}
+::-webkit-input-placeholder {
+  color: #4E4E4E;
+  font-size: 16px;
+}
+.cal input{
+  margin: 8px 3px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  outline: none;
+  font-weight: 600;
+  font-family: 'Orbitron', sans-serif;
+  width: 18.4%;
+}
+.estimate{
+  background: #FAB456;
+  border-color: #FAB456;
+}
+form div:last-child input{
+  width: 40.7%;
+}
